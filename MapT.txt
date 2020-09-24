@@ -1,0 +1,8 @@
+XX = WALL
+GG = GRASS
+HH = 50 POINTS
+HI = Inv. WALL
+II = One Use Only Wall
+WW = WATER
+DD = DIRT PATCH
+01..10 = NUMBERSTOP (1-10) Example= 01 02 05 10 (Always 2 chars)
